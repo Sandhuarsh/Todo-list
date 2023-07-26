@@ -1,0 +1,16 @@
+html{
+    background-color: darkcyan;
+}
+
+.container-fluid{
+    background-color: darkcyan;
+}
+
+input[type='text']{
+    background: transparent;
+    color: white;
+}
+input[type='text']:focus{
+    background: transparent;
+    color:white;
+}
